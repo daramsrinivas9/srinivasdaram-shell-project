@@ -4,8 +4,8 @@
 API_URL="https://api.github.com"
 
 # GitHub username and personal access token
-USERNAME=$username   # Placeholder for GitHub username
-TOKEN=$token         # Placeholder for GitHub personal access token
+USERNAME=$username   
+TOKEN=$token         
 
 # User and Repository information
 REPO_OWNER=$1  # The first argument to the script: the owner of the repository
